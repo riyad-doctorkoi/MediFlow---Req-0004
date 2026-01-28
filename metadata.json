@@ -1,0 +1,7 @@
+{
+  "name": "Mediflow Smart Pharmacy",
+  "description": "An integrated pharmacy management system featuring AI prescription scanning, smart inventory, auto-refill scheduling, and patient retention workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
